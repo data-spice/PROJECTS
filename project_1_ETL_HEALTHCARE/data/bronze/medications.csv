@@ -1,0 +1,301 @@
+medication_id,medication_name,category,manufacturer,dosage_form,unit_price,source_file
+1,Paracetamol,Analgesic,Roche,Tablet,3552.83,medications.csv
+2,Ibuprofen,NSAID,Universal Corporation,Tablet,3681.17,medications.csv
+3,Amoxicillin,Antibiotic,Universal Corporation,Capsule,4988.19,medications.csv
+4,Azithromycin,Antibiotic,Dawa,Tablet,2841.45,medications.csv
+5,Ceftriaxone,Antibiotic,Dawa,Injection,535.04,medications.csv
+6,Metformin,Antidiabetic,Beta Healthcare,Tablet,1548.57,medications.csv
+7,Insulin,Antidiabetic,Roche,Injection,1315.77,medications.csv
+8,Amlodipine,Antihypertensive,Laborate,Tablet,3321.19,medications.csv
+9,Losartan,Antihypertensive,Universal Corporation,Tablet,1064.92,medications.csv
+10,Salbutamol,Bronchodilator,Pfizer,Inhaler,3749.26,medications.csv
+11,Omeprazole,Gastrointestinal,Beta Healthcare,Capsule,1087.05,medications.csv
+12,Hydrocortisone,Steroid,Universal Corporation,Injection,1428.12,medications.csv
+13,Morphine,Analgesic,GSK,Injection,839.55,medications.csv
+14,Artemether,Antimalarial,Novartis,Injection,1831.64,medications.csv
+15,Artemether-Lumefantrine,Antimalarial,Laborate,Tablet,4288.6,medications.csv
+16,Fluconazole,Antifungal,Beta Healthcare,Capsule,1214.43,medications.csv
+17,Ciprofloxacin,Antibiotic,Pfizer,Tablet,1840.7,medications.csv
+18,Gentamicin,Antibiotic,Roche,Injection,889.6,medications.csv
+19,Vitamin C,Supplement,Pfizer,Tablet,601.34,medications.csv
+20,Zinc Sulphate,Supplement,Universal Corporation,Tablet,2154.28,medications.csv
+21,Paracetamol,Analgesic,GSK,Tablet,73.24,medications.csv
+22,Ibuprofen,NSAID,GSK,Tablet,2624.15,medications.csv
+23,Amoxicillin,Antibiotic,Roche,Capsule,1699.01,medications.csv
+24,Azithromycin,Antibiotic,Universal Corporation,Tablet,2124.67,medications.csv
+25,Ceftriaxone,Antibiotic,Beta Healthcare,Injection,3015.36,medications.csv
+26,Metformin,Antidiabetic,Novartis,Tablet,2702.04,medications.csv
+27,Insulin,Antidiabetic,Universal Corporation,Injection,3832.39,medications.csv
+28,Amlodipine,Antihypertensive,Sanofi,Tablet,1997.96,medications.csv
+29,Losartan,Antihypertensive,Pfizer,Tablet,281.3,medications.csv
+30,Salbutamol,Bronchodilator,Sanofi,Inhaler,400.04,medications.csv
+31,Omeprazole,Gastrointestinal,Beta Healthcare,Capsule,348.01,medications.csv
+32,Hydrocortisone,Steroid,Universal Corporation,Injection,2222.21,medications.csv
+33,Morphine,Analgesic,Novartis,Injection,1611.13,medications.csv
+34,Artemether,Antimalarial,Roche,Injection,3038.03,medications.csv
+35,Artemether-Lumefantrine,Antimalarial,Dawa,Tablet,3933.88,medications.csv
+36,Fluconazole,Antifungal,Novartis,Capsule,3188.74,medications.csv
+37,Ciprofloxacin,Antibiotic,Dawa,Tablet,647.13,medications.csv
+38,Gentamicin,Antibiotic,Beta Healthcare,Injection,3312.92,medications.csv
+39,Vitamin C,Supplement,Dawa,Tablet,580.94,medications.csv
+40,Zinc Sulphate,Supplement,Roche,Tablet,1250.61,medications.csv
+41,Paracetamol,Analgesic,Beta Healthcare,Tablet,451.08,medications.csv
+42,Ibuprofen,NSAID,Roche,Tablet,4938.64,medications.csv
+43,Amoxicillin,Antibiotic,Beta Healthcare,Capsule,3772.33,medications.csv
+44,Azithromycin,Antibiotic,Cosmos,Tablet,2171.54,medications.csv
+45,Ceftriaxone,Antibiotic,GSK,Injection,625.26,medications.csv
+46,Metformin,Antidiabetic,Universal Corporation,Tablet,1705.17,medications.csv
+47,Insulin,Antidiabetic,Cosmos,Injection,3188.29,medications.csv
+48,Amlodipine,Antihypertensive,Laborate,Tablet,3350.87,medications.csv
+49,Losartan,Antihypertensive,Universal Corporation,Tablet,1355.01,medications.csv
+50,Salbutamol,Bronchodilator,Beta Healthcare,Inhaler,4272.08,medications.csv
+51,Omeprazole,Gastrointestinal,Sanofi,Capsule,1372.52,medications.csv
+52,Hydrocortisone,Steroid,Sanofi,Injection,3651.1,medications.csv
+53,Morphine,Analgesic,Universal Corporation,Injection,4453.66,medications.csv
+54,Artemether,Antimalarial,Dawa,Injection,1696.8,medications.csv
+55,Artemether-Lumefantrine,Antimalarial,Laborate,Tablet,854.81,medications.csv
+56,Fluconazole,Antifungal,Beta Healthcare,Capsule,4173.97,medications.csv
+57,Ciprofloxacin,Antibiotic,Laborate,Tablet,4829.46,medications.csv
+58,Gentamicin,Antibiotic,GSK,Injection,1907.64,medications.csv
+59,Vitamin C,Supplement,Roche,Tablet,4505.84,medications.csv
+60,Zinc Sulphate,Supplement,GSK,Tablet,3822.01,medications.csv
+61,Paracetamol,Analgesic,Sanofi,Tablet,3248.0,medications.csv
+62,Ibuprofen,NSAID,Pfizer,Tablet,4498.64,medications.csv
+63,Amoxicillin,Antibiotic,Roche,Capsule,536.19,medications.csv
+64,Azithromycin,Antibiotic,Dawa,Tablet,1436.89,medications.csv
+65,Ceftriaxone,Antibiotic,Pfizer,Injection,873.15,medications.csv
+66,Metformin,Antidiabetic,Dawa,Tablet,4158.66,medications.csv
+67,Insulin,Antidiabetic,Roche,Injection,1789.04,medications.csv
+68,Amlodipine,Antihypertensive,Laborate,Tablet,849.17,medications.csv
+69,Losartan,Antihypertensive,Roche,Tablet,2728.88,medications.csv
+70,Salbutamol,Bronchodilator,Pfizer,Inhaler,962.51,medications.csv
+71,Omeprazole,Gastrointestinal,Sanofi,Capsule,4083.4,medications.csv
+72,Hydrocortisone,Steroid,GSK,Injection,3219.08,medications.csv
+73,Morphine,Analgesic,Roche,Injection,4408.46,medications.csv
+74,Artemether,Antimalarial,Novartis,Injection,2397.17,medications.csv
+75,Artemether-Lumefantrine,Antimalarial,Cosmos,Tablet,2433.03,medications.csv
+76,Fluconazole,Antifungal,Sanofi,Capsule,3516.39,medications.csv
+77,Ciprofloxacin,Antibiotic,Novartis,Tablet,3990.51,medications.csv
+78,Gentamicin,Antibiotic,Sanofi,Injection,3320.92,medications.csv
+79,Vitamin C,Supplement,Universal Corporation,Tablet,3219.17,medications.csv
+80,Zinc Sulphate,Supplement,Universal Corporation,Tablet,2802.94,medications.csv
+81,Paracetamol,Analgesic,Novartis,Tablet,586.86,medications.csv
+82,Ibuprofen,NSAID,Dawa,Tablet,4030.23,medications.csv
+83,Amoxicillin,Antibiotic,Universal Corporation,Capsule,3636.35,medications.csv
+84,Azithromycin,Antibiotic,Cosmos,Tablet,2996.49,medications.csv
+85,Ceftriaxone,Antibiotic,Dawa,Injection,2618.68,medications.csv
+86,Metformin,Antidiabetic,Universal Corporation,Tablet,789.6,medications.csv
+87,Insulin,Antidiabetic,Sanofi,Injection,2196.24,medications.csv
+88,Amlodipine,Antihypertensive,Sanofi,Tablet,4052.73,medications.csv
+89,Losartan,Antihypertensive,Universal Corporation,Tablet,3623.26,medications.csv
+90,Salbutamol,Bronchodilator,GSK,Inhaler,1016.27,medications.csv
+91,Omeprazole,Gastrointestinal,GSK,Capsule,1549.58,medications.csv
+92,Hydrocortisone,Steroid,GSK,Injection,2832.0,medications.csv
+93,Morphine,Analgesic,Roche,Injection,4597.87,medications.csv
+94,Artemether,Antimalarial,Beta Healthcare,Injection,4194.1,medications.csv
+95,Artemether-Lumefantrine,Antimalarial,Laborate,Tablet,1560.48,medications.csv
+96,Fluconazole,Antifungal,Cosmos,Capsule,1849.53,medications.csv
+97,Ciprofloxacin,Antibiotic,Universal Corporation,Tablet,4174.74,medications.csv
+98,Gentamicin,Antibiotic,Sanofi,Injection,3521.14,medications.csv
+99,Vitamin C,Supplement,Beta Healthcare,Tablet,3570.48,medications.csv
+100,Zinc Sulphate,Supplement,Universal Corporation,Tablet,194.45,medications.csv
+101,Paracetamol,Analgesic,GSK,Tablet,621.02,medications.csv
+102,Ibuprofen,NSAID,Pfizer,Tablet,2445.74,medications.csv
+103,Amoxicillin,Antibiotic,GSK,Capsule,208.41,medications.csv
+104,Azithromycin,Antibiotic,Pfizer,Tablet,4751.33,medications.csv
+105,Ceftriaxone,Antibiotic,Beta Healthcare,Injection,1679.19,medications.csv
+106,Metformin,Antidiabetic,Pfizer,Tablet,1250.98,medications.csv
+107,Insulin,Antidiabetic,Laborate,Injection,340.18,medications.csv
+108,Amlodipine,Antihypertensive,Novartis,Tablet,1451.08,medications.csv
+109,Losartan,Antihypertensive,Roche,Tablet,1924.4,medications.csv
+110,Salbutamol,Bronchodilator,Beta Healthcare,Inhaler,4647.29,medications.csv
+111,Omeprazole,Gastrointestinal,Dawa,Capsule,717.61,medications.csv
+112,Hydrocortisone,Steroid,Beta Healthcare,Injection,2941.59,medications.csv
+113,Morphine,Analgesic,Dawa,Injection,1925.79,medications.csv
+114,Artemether,Antimalarial,Roche,Injection,79.09,medications.csv
+115,Artemether-Lumefantrine,Antimalarial,Laborate,Tablet,4096.54,medications.csv
+116,Fluconazole,Antifungal,Universal Corporation,Capsule,64.81,medications.csv
+117,Ciprofloxacin,Antibiotic,Beta Healthcare,Tablet,4980.1,medications.csv
+118,Gentamicin,Antibiotic,Sanofi,Injection,1783.49,medications.csv
+119,Vitamin C,Supplement,Laborate,Tablet,4762.39,medications.csv
+120,Zinc Sulphate,Supplement,Dawa,Tablet,4867.02,medications.csv
+121,Paracetamol,Analgesic,Laborate,Tablet,3544.61,medications.csv
+122,Ibuprofen,NSAID,GSK,Tablet,625.13,medications.csv
+123,Amoxicillin,Antibiotic,Roche,Capsule,2811.63,medications.csv
+124,Azithromycin,Antibiotic,Novartis,Tablet,4550.02,medications.csv
+125,Ceftriaxone,Antibiotic,Pfizer,Injection,2894.4,medications.csv
+126,Metformin,Antidiabetic,Pfizer,Tablet,699.57,medications.csv
+127,Insulin,Antidiabetic,Sanofi,Injection,3742.11,medications.csv
+128,Amlodipine,Antihypertensive,Cosmos,Tablet,1743.29,medications.csv
+129,Losartan,Antihypertensive,Dawa,Tablet,4334.51,medications.csv
+130,Salbutamol,Bronchodilator,Beta Healthcare,Inhaler,407.03,medications.csv
+131,Omeprazole,Gastrointestinal,Universal Corporation,Capsule,1339.19,medications.csv
+132,Hydrocortisone,Steroid,Roche,Injection,2836.34,medications.csv
+133,Morphine,Analgesic,Roche,Injection,4548.78,medications.csv
+134,Artemether,Antimalarial,Beta Healthcare,Injection,52.78,medications.csv
+135,Artemether-Lumefantrine,Antimalarial,Cosmos,Tablet,672.24,medications.csv
+136,Fluconazole,Antifungal,Universal Corporation,Capsule,2009.22,medications.csv
+137,Ciprofloxacin,Antibiotic,Sanofi,Tablet,4707.61,medications.csv
+138,Gentamicin,Antibiotic,GSK,Injection,3292.99,medications.csv
+139,Vitamin C,Supplement,Pfizer,Tablet,244.75,medications.csv
+140,Zinc Sulphate,Supplement,Universal Corporation,Tablet,1708.57,medications.csv
+141,Paracetamol,Analgesic,Laborate,Tablet,4705.91,medications.csv
+142,Ibuprofen,NSAID,Universal Corporation,Tablet,1257.09,medications.csv
+143,Amoxicillin,Antibiotic,Sanofi,Capsule,2666.09,medications.csv
+144,Azithromycin,Antibiotic,Pfizer,Tablet,2574.63,medications.csv
+145,Ceftriaxone,Antibiotic,Laborate,Injection,3293.92,medications.csv
+146,Metformin,Antidiabetic,Novartis,Tablet,899.15,medications.csv
+147,Insulin,Antidiabetic,Beta Healthcare,Injection,1827.1,medications.csv
+148,Amlodipine,Antihypertensive,Beta Healthcare,Tablet,2374.57,medications.csv
+149,Losartan,Antihypertensive,Sanofi,Tablet,1795.78,medications.csv
+150,Salbutamol,Bronchodilator,Laborate,Inhaler,2279.5,medications.csv
+151,Omeprazole,Gastrointestinal,Roche,Capsule,2953.05,medications.csv
+152,Hydrocortisone,Steroid,Dawa,Injection,3146.75,medications.csv
+153,Morphine,Analgesic,Novartis,Injection,4490.63,medications.csv
+154,Artemether,Antimalarial,Laborate,Injection,1842.63,medications.csv
+155,Artemether-Lumefantrine,Antimalarial,Sanofi,Tablet,2729.14,medications.csv
+156,Fluconazole,Antifungal,Roche,Capsule,3992.98,medications.csv
+157,Ciprofloxacin,Antibiotic,Roche,Tablet,2903.28,medications.csv
+158,Gentamicin,Antibiotic,Cosmos,Injection,4185.9,medications.csv
+159,Vitamin C,Supplement,Beta Healthcare,Tablet,3106.77,medications.csv
+160,Zinc Sulphate,Supplement,Laborate,Tablet,160.29,medications.csv
+161,Paracetamol,Analgesic,Pfizer,Tablet,2331.85,medications.csv
+162,Ibuprofen,NSAID,Laborate,Tablet,2195.63,medications.csv
+163,Amoxicillin,Antibiotic,Beta Healthcare,Capsule,380.77,medications.csv
+164,Azithromycin,Antibiotic,Cosmos,Tablet,4843.76,medications.csv
+165,Ceftriaxone,Antibiotic,Universal Corporation,Injection,3607.53,medications.csv
+166,Metformin,Antidiabetic,Laborate,Tablet,1616.97,medications.csv
+167,Insulin,Antidiabetic,Novartis,Injection,2717.88,medications.csv
+168,Amlodipine,Antihypertensive,Pfizer,Tablet,99.85,medications.csv
+169,Losartan,Antihypertensive,Beta Healthcare,Tablet,3083.22,medications.csv
+170,Salbutamol,Bronchodilator,Universal Corporation,Inhaler,1685.82,medications.csv
+171,Omeprazole,Gastrointestinal,Sanofi,Capsule,2229.96,medications.csv
+172,Hydrocortisone,Steroid,Laborate,Injection,1153.12,medications.csv
+173,Morphine,Analgesic,Universal Corporation,Injection,1337.56,medications.csv
+174,Artemether,Antimalarial,Novartis,Injection,1071.53,medications.csv
+175,Artemether-Lumefantrine,Antimalarial,Laborate,Tablet,1536.72,medications.csv
+176,Fluconazole,Antifungal,GSK,Capsule,3902.33,medications.csv
+177,Ciprofloxacin,Antibiotic,Laborate,Tablet,3646.46,medications.csv
+178,Gentamicin,Antibiotic,Pfizer,Injection,4226.75,medications.csv
+179,Vitamin C,Supplement,Dawa,Tablet,4373.96,medications.csv
+180,Zinc Sulphate,Supplement,Dawa,Tablet,1663.94,medications.csv
+181,Paracetamol,Analgesic,Beta Healthcare,Tablet,4733.24,medications.csv
+182,Ibuprofen,NSAID,Beta Healthcare,Tablet,3449.61,medications.csv
+183,Amoxicillin,Antibiotic,Universal Corporation,Capsule,1033.48,medications.csv
+184,Azithromycin,Antibiotic,Cosmos,Tablet,4209.73,medications.csv
+185,Ceftriaxone,Antibiotic,Laborate,Injection,1882.11,medications.csv
+186,Metformin,Antidiabetic,Beta Healthcare,Tablet,1158.34,medications.csv
+187,Insulin,Antidiabetic,GSK,Injection,1711.8,medications.csv
+188,Amlodipine,Antihypertensive,Universal Corporation,Tablet,2787.24,medications.csv
+189,Losartan,Antihypertensive,Dawa,Tablet,3570.59,medications.csv
+190,Salbutamol,Bronchodilator,Dawa,Inhaler,251.98,medications.csv
+191,Omeprazole,Gastrointestinal,Dawa,Capsule,2250.88,medications.csv
+192,Hydrocortisone,Steroid,Universal Corporation,Injection,3740.67,medications.csv
+193,Morphine,Analgesic,Laborate,Injection,3704.74,medications.csv
+194,Artemether,Antimalarial,Laborate,Injection,3595.02,medications.csv
+195,Artemether-Lumefantrine,Antimalarial,Cosmos,Tablet,1671.41,medications.csv
+196,Fluconazole,Antifungal,Pfizer,Capsule,3526.89,medications.csv
+197,Ciprofloxacin,Antibiotic,Pfizer,Tablet,1315.64,medications.csv
+198,Gentamicin,Antibiotic,Dawa,Injection,3553.22,medications.csv
+199,Vitamin C,Supplement,Novartis,Tablet,4191.21,medications.csv
+200,Zinc Sulphate,Supplement,Beta Healthcare,Tablet,4281.39,medications.csv
+201,Paracetamol,Analgesic,Cosmos,Tablet,1090.45,medications.csv
+202,Ibuprofen,NSAID,Universal Corporation,Tablet,4166.9,medications.csv
+203,Amoxicillin,Antibiotic,Roche,Capsule,4516.26,medications.csv
+204,Azithromycin,Antibiotic,Pfizer,Tablet,3348.0,medications.csv
+205,Ceftriaxone,Antibiotic,Dawa,Injection,4830.76,medications.csv
+206,Metformin,Antidiabetic,Sanofi,Tablet,785.96,medications.csv
+207,Insulin,Antidiabetic,Novartis,Injection,4976.73,medications.csv
+208,Amlodipine,Antihypertensive,Pfizer,Tablet,2031.45,medications.csv
+209,Losartan,Antihypertensive,Roche,Tablet,2470.15,medications.csv
+210,Salbutamol,Bronchodilator,Beta Healthcare,Inhaler,2732.91,medications.csv
+211,Omeprazole,Gastrointestinal,Novartis,Capsule,430.45,medications.csv
+212,Hydrocortisone,Steroid,Cosmos,Injection,130.8,medications.csv
+213,Morphine,Analgesic,Laborate,Injection,1134.44,medications.csv
+214,Artemether,Antimalarial,Cosmos,Injection,841.93,medications.csv
+215,Artemether-Lumefantrine,Antimalarial,Pfizer,Tablet,4020.67,medications.csv
+216,Fluconazole,Antifungal,Novartis,Capsule,4760.95,medications.csv
+217,Ciprofloxacin,Antibiotic,Laborate,Tablet,4046.2,medications.csv
+218,Gentamicin,Antibiotic,GSK,Injection,4108.91,medications.csv
+219,Vitamin C,Supplement,Sanofi,Tablet,3120.31,medications.csv
+220,Zinc Sulphate,Supplement,Laborate,Tablet,4580.57,medications.csv
+221,Paracetamol,Analgesic,Pfizer,Tablet,4529.75,medications.csv
+222,Ibuprofen,NSAID,Laborate,Tablet,149.54,medications.csv
+223,Amoxicillin,Antibiotic,Novartis,Capsule,4239.24,medications.csv
+224,Azithromycin,Antibiotic,Novartis,Tablet,4689.3,medications.csv
+225,Ceftriaxone,Antibiotic,Novartis,Injection,1751.05,medications.csv
+226,Metformin,Antidiabetic,Cosmos,Tablet,3281.56,medications.csv
+227,Insulin,Antidiabetic,Beta Healthcare,Injection,4341.2,medications.csv
+228,Amlodipine,Antihypertensive,Novartis,Tablet,430.12,medications.csv
+229,Losartan,Antihypertensive,Dawa,Tablet,3801.67,medications.csv
+230,Salbutamol,Bronchodilator,Cosmos,Inhaler,1004.99,medications.csv
+231,Omeprazole,Gastrointestinal,Sanofi,Capsule,4037.66,medications.csv
+232,Hydrocortisone,Steroid,Laborate,Injection,1756.89,medications.csv
+233,Morphine,Analgesic,Universal Corporation,Injection,2782.65,medications.csv
+234,Artemether,Antimalarial,Beta Healthcare,Injection,140.78,medications.csv
+235,Artemether-Lumefantrine,Antimalarial,Novartis,Tablet,2598.45,medications.csv
+236,Fluconazole,Antifungal,Cosmos,Capsule,1369.5,medications.csv
+237,Ciprofloxacin,Antibiotic,Universal Corporation,Tablet,1178.72,medications.csv
+238,Gentamicin,Antibiotic,Novartis,Injection,3708.14,medications.csv
+239,Vitamin C,Supplement,Laborate,Tablet,518.85,medications.csv
+240,Zinc Sulphate,Supplement,Laborate,Tablet,2626.73,medications.csv
+241,Paracetamol,Analgesic,Laborate,Tablet,1211.15,medications.csv
+242,Ibuprofen,NSAID,Laborate,Tablet,4411.03,medications.csv
+243,Amoxicillin,Antibiotic,Roche,Capsule,312.89,medications.csv
+244,Azithromycin,Antibiotic,Cosmos,Tablet,1156.22,medications.csv
+245,Ceftriaxone,Antibiotic,Sanofi,Injection,829.39,medications.csv
+246,Metformin,Antidiabetic,Dawa,Tablet,4453.98,medications.csv
+247,Insulin,Antidiabetic,GSK,Injection,4838.71,medications.csv
+248,Amlodipine,Antihypertensive,Beta Healthcare,Tablet,1807.97,medications.csv
+249,Losartan,Antihypertensive,Pfizer,Tablet,1565.58,medications.csv
+250,Salbutamol,Bronchodilator,Roche,Inhaler,1144.61,medications.csv
+251,Omeprazole,Gastrointestinal,Roche,Capsule,3490.46,medications.csv
+252,Hydrocortisone,Steroid,Beta Healthcare,Injection,2247.19,medications.csv
+253,Morphine,Analgesic,Laborate,Injection,3094.52,medications.csv
+254,Artemether,Antimalarial,Cosmos,Injection,3281.51,medications.csv
+255,Artemether-Lumefantrine,Antimalarial,Beta Healthcare,Tablet,174.8,medications.csv
+256,Fluconazole,Antifungal,Sanofi,Capsule,4858.81,medications.csv
+257,Ciprofloxacin,Antibiotic,Dawa,Tablet,599.99,medications.csv
+258,Gentamicin,Antibiotic,GSK,Injection,3962.53,medications.csv
+259,Vitamin C,Supplement,Pfizer,Tablet,3285.23,medications.csv
+260,Zinc Sulphate,Supplement,Dawa,Tablet,2936.58,medications.csv
+261,Paracetamol,Analgesic,Dawa,Tablet,2660.27,medications.csv
+262,Ibuprofen,NSAID,Roche,Tablet,1215.82,medications.csv
+263,Amoxicillin,Antibiotic,Pfizer,Capsule,2820.05,medications.csv
+264,Azithromycin,Antibiotic,Dawa,Tablet,1527.39,medications.csv
+265,Ceftriaxone,Antibiotic,Pfizer,Injection,1864.45,medications.csv
+266,Metformin,Antidiabetic,Beta Healthcare,Tablet,3426.8,medications.csv
+267,Insulin,Antidiabetic,Pfizer,Injection,4404.32,medications.csv
+268,Amlodipine,Antihypertensive,Roche,Tablet,2259.78,medications.csv
+269,Losartan,Antihypertensive,Cosmos,Tablet,2297.47,medications.csv
+270,Salbutamol,Bronchodilator,Laborate,Inhaler,2032.41,medications.csv
+271,Omeprazole,Gastrointestinal,Cosmos,Capsule,4363.71,medications.csv
+272,Hydrocortisone,Steroid,Pfizer,Injection,1980.22,medications.csv
+273,Morphine,Analgesic,Beta Healthcare,Injection,1838.33,medications.csv
+274,Artemether,Antimalarial,Cosmos,Injection,2916.68,medications.csv
+275,Artemether-Lumefantrine,Antimalarial,Cosmos,Tablet,3625.51,medications.csv
+276,Fluconazole,Antifungal,Laborate,Capsule,4522.58,medications.csv
+277,Ciprofloxacin,Antibiotic,Cosmos,Tablet,3348.59,medications.csv
+278,Gentamicin,Antibiotic,Cosmos,Injection,3117.75,medications.csv
+279,Vitamin C,Supplement,GSK,Tablet,3789.35,medications.csv
+280,Zinc Sulphate,Supplement,Laborate,Tablet,3008.48,medications.csv
+281,Paracetamol,Analgesic,Novartis,Tablet,3279.01,medications.csv
+282,Ibuprofen,NSAID,Sanofi,Tablet,1970.68,medications.csv
+283,Amoxicillin,Antibiotic,Beta Healthcare,Capsule,1733.43,medications.csv
+284,Azithromycin,Antibiotic,Beta Healthcare,Tablet,4322.22,medications.csv
+285,Ceftriaxone,Antibiotic,Laborate,Injection,2193.77,medications.csv
+286,Metformin,Antidiabetic,Pfizer,Tablet,2603.31,medications.csv
+287,Insulin,Antidiabetic,Pfizer,Injection,3226.82,medications.csv
+288,Amlodipine,Antihypertensive,Dawa,Tablet,4162.05,medications.csv
+289,Losartan,Antihypertensive,Sanofi,Tablet,521.39,medications.csv
+290,Salbutamol,Bronchodilator,GSK,Inhaler,1721.9,medications.csv
+291,Omeprazole,Gastrointestinal,Laborate,Capsule,3371.14,medications.csv
+292,Hydrocortisone,Steroid,Roche,Injection,2967.03,medications.csv
+293,Morphine,Analgesic,Pfizer,Injection,4348.13,medications.csv
+294,Artemether,Antimalarial,Sanofi,Injection,354.59,medications.csv
+295,Artemether-Lumefantrine,Antimalarial,GSK,Tablet,4112.54,medications.csv
+296,Fluconazole,Antifungal,Beta Healthcare,Capsule,2024.0,medications.csv
+297,Ciprofloxacin,Antibiotic,GSK,Tablet,4426.43,medications.csv
+298,Gentamicin,Antibiotic,Laborate,Injection,94.81,medications.csv
+299,Vitamin C,Supplement,Beta Healthcare,Tablet,4404.6,medications.csv
+300,Zinc Sulphate,Supplement,Beta Healthcare,Tablet,831.69,medications.csv

@@ -1,0 +1,51 @@
+hospital_id,hospital_name,county,level,total_beds,established_year,source_file
+1,Bomet General Hospital 1,Bomet,Level 2,350,2014,hospitals.csv
+2,Kericho General Hospital 2,Kericho,Level 6,784,2001,hospitals.csv
+3,Busia General Hospital 3,Busia,Level 2,724,2008,hospitals.csv
+4,Laikipia General Hospital 4,Laikipia,Level 5,1011,2004,hospitals.csv
+5,Busia General Hospital 5,Busia,Level 4,262,1984,hospitals.csv
+6,Kisii General Hospital 6,Kisii,Level 5,1190,2020,hospitals.csv
+7,Makueni General Hospital 7,Makueni,Level 2,684,1972,hospitals.csv
+8,Trans Nzoia General Hospital 8,Trans Nzoia,Level 6,841,1999,hospitals.csv
+9,Kajiado General Hospital 9,Kajiado,Level 4,102,1988,hospitals.csv
+10,Nyandarua General Hospital 10,Nyandarua,Level 3,255,2010,hospitals.csv
+11,Kitui General Hospital 11,Kitui,Level 3,612,1969,hospitals.csv
+12,Vihiga General Hospital 12,Vihiga,Level 3,1179,2003,hospitals.csv
+13,Homa Bay General Hospital 13,Homa Bay,Level 5,222,2002,hospitals.csv
+14,Garissa General Hospital 14,Garissa,Level 5,821,1981,hospitals.csv
+15,Turkana General Hospital 15,Turkana,Level 4,539,1995,hospitals.csv
+16,Turkana General Hospital 16,Turkana,Level 2,1015,1991,hospitals.csv
+17,Nandi General Hospital 17,Nandi,Level 3,766,1993,hospitals.csv
+18,Siaya General Hospital 18,Siaya,Level 5,277,2016,hospitals.csv
+19,Kwale General Hospital 19,Kwale,Level 5,837,1990,hospitals.csv
+20,Marsabit General Hospital 20,Marsabit,Level 5,372,2019,hospitals.csv
+21,Kajiado General Hospital 21,Kajiado,Level 6,467,1998,hospitals.csv
+22,Uasin Gishu General Hospital 22,Uasin Gishu,Level 3,904,2014,hospitals.csv
+23,Trans Nzoia General Hospital 23,Trans Nzoia,Level 5,879,2005,hospitals.csv
+24,Garissa General Hospital 24,Garissa,Level 2,657,1982,hospitals.csv
+25,Mandera General Hospital 25,Mandera,Level 3,461,1967,hospitals.csv
+26,Murang'a General Hospital 26,Murang'a,Level 2,1064,1980,hospitals.csv
+27,Tana River General Hospital 27,Tana River,Level 4,503,1966,hospitals.csv
+28,Embu General Hospital 28,Embu,Level 2,1149,2010,hospitals.csv
+29,Garissa General Hospital 29,Garissa,Level 2,1063,2022,hospitals.csv
+30,Laikipia General Hospital 30,Laikipia,Level 5,1050,1989,hospitals.csv
+31,Uasin Gishu General Hospital 31,Uasin Gishu,Level 3,587,1976,hospitals.csv
+32,Nyandarua General Hospital 32,Nyandarua,Level 6,473,1997,hospitals.csv
+33,Machakos General Hospital 33,Machakos,Level 2,605,1989,hospitals.csv
+34,Nyamira General Hospital 34,Nyamira,Level 6,950,2007,hospitals.csv
+35,Nyamira General Hospital 35,Nyamira,Level 5,525,1983,hospitals.csv
+36,Kajiado General Hospital 36,Kajiado,Level 2,1039,2002,hospitals.csv
+37,Kwale General Hospital 37,Kwale,Level 5,332,2016,hospitals.csv
+38,Wajir General Hospital 38,Wajir,Level 5,201,2019,hospitals.csv
+39,Machakos General Hospital 39,Machakos,Level 4,456,1986,hospitals.csv
+40,Trans Nzoia General Hospital 40,Trans Nzoia,Level 4,525,1978,hospitals.csv
+41,Narok General Hospital 41,Narok,Level 2,546,2011,hospitals.csv
+42,Bungoma General Hospital 42,Bungoma,Level 6,438,2020,hospitals.csv
+43,Kirinyaga General Hospital 43,Kirinyaga,Level 6,1025,1999,hospitals.csv
+44,Migori General Hospital 44,Migori,Level 4,730,2002,hospitals.csv
+45,Siaya General Hospital 45,Siaya,Level 4,463,1967,hospitals.csv
+46,Murang'a General Hospital 46,Murang'a,Level 6,1085,1992,hospitals.csv
+47,Kitui General Hospital 47,Kitui,Level 5,61,1999,hospitals.csv
+48,Nakuru General Hospital 48,Nakuru,Level 5,446,2016,hospitals.csv
+49,Nyamira General Hospital 49,Nyamira,Level 2,130,1968,hospitals.csv
+50,Tana River General Hospital 50,Tana River,Level 5,248,2019,hospitals.csv

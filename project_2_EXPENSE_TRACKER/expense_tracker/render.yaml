@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: expense-tracker-api
+    env: python
+    rootDir: project_2_EXPENSE_TRACKER/expense_tracker/backend
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.0
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ORIGINS
+        sync: false

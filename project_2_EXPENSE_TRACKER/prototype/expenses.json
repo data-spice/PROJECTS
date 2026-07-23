@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Lunch",
+        "category": "Food",
+        "amount": 50.0,
+        "date": "03/07/2026"
+    },
+    {
+        "description": "Watch",
+        "category": "Accessories",
+        "amount": 3000.0,
+        "date": "03/06/2023"
+    },
+    {
+        "description": "Karting",
+        "category": "Leisure",
+        "amount": 5600.0,
+        "date": "30/03/2026"
+    },
+    {
+        "description": "Horse-Riding",
+        "category": "Leisure",
+        "amount": 5000.0,
+        "date": "02/04/2024"
+    },
+    {
+        "description": "Monitor",
+        "category": "Studies",
+        "amount": 14550.0,
+        "date": "01/01/2026"
+    },
+    {
+        "description": "Lunch",
+        "category": "food",
+        "amount": 40.0,
+        "date": "01/03/2005"
+    }
+]
